@@ -19,4 +19,5 @@ Instructions on setting up:
 
 Note : This works with python 2.7 , and you might need to install a few libraries, before this can function. 
 
-## Happy Disecting Data :) !!!
+## Happy Dissecting Data :) !!!
+Please read AFFIN-README.md to know what AFFIN-111.txt is. 
